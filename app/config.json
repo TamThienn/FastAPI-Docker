@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sonic-mile-350106",
+  "private_key_id": "383b3a92edbf5c90f44f847629a1de1de17f5e7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4NFyVE2PM/Mgb\nIew/hsNMLzYzCpsWeaOX8iZRGinvZ8W/mMGWGf/gywcSXXtJy3RcBs+DeDQFP3EK\nihch5wlRrCjYocWqsLLlv8w+dEDnDk5nafUuIXSqtrhMcf6Z2gQ47Ps/N8N2WMzA\nwPgD013rfsLjZGa0Jvw5yEcLDjfiO5qrjmiZtKleV8PTBuF90CNjDy9vHYIflGkp\nluitnQPDA5uCDjulVkHxFXEuM2IFrowcG6plhRm0DRkjl290T7NgRcTXsvZWlUAq\nqZtAqBTsLdWjZgCbNpOL2yU0ucg4l7FPAJC5v3cLDEYNmRxFzKIoGARWgK7L8dca\nIPtj/ziPAgMBAAECggEAPPfbwt3JlRH/u3dFZhtZLbCcrFUw0sYM/yA/TW2u/pXm\nzk0lmeReHE2muA3n3htwlnsMmROiiDAg3p+pG2gIXhdw547XyXC1rbSHSg6ZYsCJ\n89GOvKeHIW/b3TWH0u1lo1/QovJ2iAfJMW1NSZrehbENmUzkb3FN32QqG38nwQFv\nA+hD+gsYxGUOTZtIX8beH1DLaM/Vy7LFHtjSCH5EldgNbHPipFQe7hDOvYteaPBp\nXOpQKYSsUS02hApbLbUIgEJtuIoI7eRYU2QGDEQcSzu/WgUpKgWNSOocyjL4htBL\nD30osWUkzMUFr5jBTqInURXLtl/ZRI7Z4WCyZCZtmQKBgQD8eHnBRgbZWuPBsk/o\nbILRwd/zhsXMq+FxSxzRImGztEPpJgqK7yJ0L5c1XTvOEOdGMIDVpZQOyDdbuFU5\ndS6+8fDaZnAnQcMUyOg1RCB47cZsbvVS0ObWKWZg6apvG7zQE+Qsa2ac8UGgqv8e\nC/OAhBONNYVmj8ePvuihzOzehwKBgQC6x5SELWMP04QfFOx1jAbVXZ6upNzTmvUL\nByoeO1jmKIE26vd35SKfgg+rlOT0hW+WcMfiPEIln+zN6785tSDqvProvktpr8Cl\no/Ktghhq3U4eWrOd6KJBN7eHCDADUlfYY1K5taUPZiJOC0rGNDCMYTk3VPZOVnJM\n4HxcY5OPuQKBgEu4tovJPPSj1fuaR20mXnYa99hKa7jfNFaOeK4g6bzELDoZNsBE\nyMigHXHb7Lv5ReQ/V+S8LJPiaPgRaT46bzLFzb8zSh/8EU6Ck2KmdDbQ2dpbzShx\nj0pcUGBwtLVuVEr0LFNGQxh/I3fU0X9phjbdZh/MFZ6VMP1j/NHKbKCxAoGBALDt\nXUHXvH7BXeYTa+ntOoviou3MPWI05uoLX1pD3XIn7D6ZVNG9u45dJXrjD/6QZ6Oa\nMb2cVwxM8YQeTIXdjdDOMt9FYyo50cMWCktRcM/J0rXuNTbfptMgdDj1CIYc+hl/\n/FzuM+ziUpybFbmqtlJDxm8jjC2otZ0dCLB7oswBAoGAZuUQWVx4YwC8gZ+2tvdm\n3GQO2iI61onUsrqnsohijBxO8pVfcpHmjlYkjauCjjWTQ8BVIPOhqqUdlCXFeT1D\n3WZa/umeuy8qosIsdj8f2RGGvb9PIN0L1FB3ocuKN400JpXIkKZcf9ajmM23hTMp\nP90g2nK/j69ZxNrMSceoCi8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "thien-596@sonic-mile-350106.iam.gserviceaccount.com",
+  "client_id": "109149957790743826840",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thien-596%40sonic-mile-350106.iam.gserviceaccount.com"
+}
